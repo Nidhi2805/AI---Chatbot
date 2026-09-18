@@ -1,6 +1,5 @@
 .env
 .venv/
-models/
 data/audit_log.jsonl
 __pycache__/
-*.joblib
+
